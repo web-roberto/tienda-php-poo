@@ -1,5 +1,5 @@
-CREATE DATABASE tienda_master;
-USE tienda_master;
+CREATE DATABASE heroku_6f3ccbaaf6cdfe4;
+USE heroku_6f3ccbaaf6cdfe4;
 
 CREATE TABLE usuarios(
 id              int(255) auto_increment not null,
