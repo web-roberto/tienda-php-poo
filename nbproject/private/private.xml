@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/tienda-php-poo/views/layout/footer.php</file>
+            <file>file:/C:/xampp/htdocs/tienda-php-poo/views/layout/header.php</file>
+            <file>file:/C:/xampp/htdocs/tienda-php-poo/controllers/ErrorController.php</file>
+            <file>file:/C:/xampp/htdocs/tienda-php-poo/views/categoria/ver.php</file>
+            <file>file:/C:/xampp/htdocs/tienda-php-poo/controllers/CarritoController.php</file>
+            <file>file:/C:/xampp/htdocs/tienda-php-poo/controllers/ProductoController.php</file>
+            <file>file:/C:/xampp/htdocs/tienda-php-poo/views/pedido/hacer.php</file>
+            <file>file:/C:/xampp/htdocs/tienda-php-poo/views/categoria/index.php</file>
+            <file>file:/C:/xampp/htdocs/tienda-php-poo/views/layout/sidebar.php</file>
+            <file>file:/C:/xampp/htdocs/tienda-php-poo/views/producto/gestion.php</file>
+            <file>file:/C:/xampp/htdocs/tienda-php-poo/controllers/UsuarioController.php</file>
+            <file>file:/C:/xampp/htdocs/tienda-php-poo/views/producto/ver.php</file>
+            <file>file:/C:/xampp/htdocs/tienda-php-poo/models/usuario.php</file>
+            <file>file:/C:/xampp/htdocs/tienda-php-poo/views/usuario/registro.php</file>
+            <file>file:/C:/xampp/htdocs/tienda-php-poo/models/producto.php</file>
+            <file>file:/C:/xampp/htdocs/tienda-php-poo/.htaccess</file>
+            <file>file:/C:/xampp/htdocs/tienda-php-poo/controllers/PedidoController.php</file>
+            <file>file:/C:/xampp/htdocs/tienda-php-poo/controllers/CategoriaController.php</file>
+            <file>file:/C:/xampp/htdocs/tienda-php-poo/views/producto/destacados.php</file>
+            <file>file:/C:/xampp/htdocs/tienda-php-poo/views/pedido/mis_pedidos.php</file>
+            <file>file:/C:/xampp/htdocs/tienda-php-poo/config/db.php</file>
+            <file>file:/C:/xampp/htdocs/tienda-php-poo/views/pedido/detalle.php</file>
+            <file>file:/C:/xampp/htdocs/tienda-php-poo/views/producto/crear.php</file>
+            <file>file:/C:/xampp/htdocs/tienda-php-poo/index.php</file>
+            <file>file:/C:/xampp/htdocs/tienda-php-poo/views/carrito/index.php</file>
+            <file>file:/C:/xampp/htdocs/tienda-php-poo/views/pedido/confirmado.php</file>
+            <file>file:/C:/xampp/htdocs/tienda-php-poo/models/pedido.php</file>
+            <file>file:/C:/xampp/htdocs/tienda-php-poo/config/parameters.php</file>
+            <file>file:/C:/xampp/htdocs/tienda-php-poo/autoload.php</file>
+            <file>file:/C:/xampp/htdocs/tienda-php-poo/views/categoria/crear.php</file>
+            <file>file:/C:/xampp/htdocs/tienda-php-poo/models/categoria.php</file>
+            <file>file:/C:/xampp/htdocs/tienda-php-poo/helpers/utils.php</file>
+        </group>
+    </open-files>
+</project-private>
